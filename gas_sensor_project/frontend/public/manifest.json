@@ -1,6 +1,6 @@
 {
   "short_name": "SafeSphere",
-  "name": "Create React App Sample",
+  "name": "SafeSphere",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,9 +8,19 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo_192.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "logo_384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
     },
     {
       "src": "maskabe.png",
@@ -19,7 +29,7 @@
       "purpose": "any maskabe"
     },
     {
-      "src": "logo512.png",
+      "src": "logo_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
